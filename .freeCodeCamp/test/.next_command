@@ -139,3 +139,5 @@ cp courses.csv courses_test.csv
 ls --color=auto
 cp students.csv students_test.csv
 ./insert_data.sh
+git status
+git push
