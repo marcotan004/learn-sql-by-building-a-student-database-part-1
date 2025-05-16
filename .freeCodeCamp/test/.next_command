@@ -138,3 +138,4 @@ cp courses.csv courses_test.csv
 ./insert_data.sh
 ls --color=auto
 cp students.csv students_test.csv
+./insert_data.sh
