@@ -79,3 +79,5 @@ more students.csv
 clear
 psql --username=freecodecamp --dbname=postgre
 psql --username=freecodecamp --dbname=postgres
+ls --color=auto
+psql --username=freecodecamp --dbname=postgres
