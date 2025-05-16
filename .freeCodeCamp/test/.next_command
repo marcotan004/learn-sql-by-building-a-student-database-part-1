@@ -118,3 +118,4 @@ ls --color=auto
 chmod 755 insert_data.sh
 vim insert_data.sh
 ./insert_data.sh
+./insert_data.sh
